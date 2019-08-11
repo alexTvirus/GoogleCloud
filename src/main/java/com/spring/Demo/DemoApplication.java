@@ -41,8 +41,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		
-		return "hello world!";
+		return "1567322096085";
 	}
 
 	@GetMapping("/test1")
